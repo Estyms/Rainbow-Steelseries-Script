@@ -7,7 +7,7 @@ A dumb script to get rainbow effect on MSI Laptop steelseries keyboards
  - MSI Laptop
 
 ## Usage
-> ./Keyboard-Rainbow.sh -s [Delay]  -i [Hue Increment]
+> ./Rainbow-Keyboard.sh -s [Delay]  -i [Hue Increment]
 
  - -s : Set the delay in Millisecond between color changes
  - -i : Set the Hue Incrementation [0-360].
